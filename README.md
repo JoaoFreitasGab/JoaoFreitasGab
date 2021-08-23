@@ -1,12 +1,4 @@
-## Olá! Eu sou João Gabriel
-
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando React
-- 💬 Contato via email: joao.gcamargo@gmail.com
-
-
-##
-
+## Olá! Eu sou João Gabriel!
 
 <div>
   <a href="https://github.com/JoaoFreitasGab">
