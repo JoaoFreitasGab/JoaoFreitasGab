@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando React
-- 💬 Contate - me no email: joao.gcamargo@gmail.com
+- 💬 Contato via email: joao.gcamargo@gmail.com
 
 
 ##
@@ -29,7 +29,11 @@
   ##
   
   
-  
+  <div align="center">
+    <a href="mailto:joao.gcamargo@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+""></a>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-camargo-de-freitas-61568b189/"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
+   </div>
   
   
   
