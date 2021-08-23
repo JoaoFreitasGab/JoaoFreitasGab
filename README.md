@@ -18,7 +18,7 @@
   ##
  
   
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="js-joao" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png">
   <img align="center" alt="html-joao" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
   <img align="center" alt="css-joao" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
@@ -29,7 +29,7 @@
   ##
   
   
-  <div align="center">
+  <div >
     <a href="mailto:joao.gcamargo@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 ""></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-camargo-de-freitas-61568b189/"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
