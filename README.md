@@ -15,6 +15,7 @@
   <img align="center" alt="html-joao" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
   <img align="center" alt="css-joao" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
   <img align="center" alt="react=joao" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png">
+  <img align="center" alt="react=joao" height="50" width="50" src="[https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png](https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg)">
  
   </div>
   
