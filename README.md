@@ -1,4 +1,4 @@
-![image](https://github.com/JoaoFreitasGab/JoaoFreitasGab/assets/83920066/577b4bd1-f331-4a46-992d-d81945115e49)## Olá! Eu sou João Gabriel!
+## Olá! Eu sou João Gabriel!
 
 <div>
   <a href="https://github.com/JoaoFreitasGab">
