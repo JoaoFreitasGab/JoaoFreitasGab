@@ -11,11 +11,13 @@
  
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="js-joao" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png">
-  <img align="center" alt="html-joao" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
-  <img align="center" alt="css-joao" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
-  <img align="center" alt="react=joao" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png">
-  <img align="center" alt="csharp=joao" height="50" width="50" src="[https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png](https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg)">
+  <img align="center" alt="js-joao" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="html-joao" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="css-joao" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="react=joao" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="react=joao" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="react=joao" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
  
   </div>
   
